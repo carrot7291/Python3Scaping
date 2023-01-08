@@ -1,1 +1,1 @@
-https://github.com/germey/proxypool
+https://github.com/Python3WebSpider/ProxyPool
